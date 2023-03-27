@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;500;600&display=swap');
 * {box-sizing:border-box}
 html,body,h1,h2,h3,h4,h5,h6,
 p,ul,ol,li,blockquote,dl,dt,dd,address,
@@ -7,7 +9,7 @@ form,fieldset,legend,label,input,textarea,option,select,button,
 header,main,footer,article,section,aside,nav,figure,figcaption,
 div,span
 {
-    font-family:'Noto Sans KR',"Font Awesome 5 Free","Font Awesome 5 Brands";
+    font-family:'Playfair Display', 'Noto Serif KR',"Font Awesome 5 Free","Font Awesome 5 Brands";
     margin:0; padding:0;
     font-size:1.0rem;
     font-weight:normal;
